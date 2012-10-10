@@ -9,6 +9,7 @@ public class TestInheritence extends ParentTestClass //Sheraz Test1: Inheritance
 {
 	private String csTestStringVariable;
 	private String csTestStringVariable1;
+	private String csTestStringVariable2;
 	
 	public TestFunction testFunction()
 	{
