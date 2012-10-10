@@ -8,6 +8,7 @@ import com.codeporting.csharp2java.System.GC;
 public class TestInheritence extends ParentTestClass //Sheraz Test1: Inheritance conversion in JAVA
 {
 	private String csTestStringVariable;
+	private String csTestStringVariable1;
 	
 	public TestFunction testFunction()
 	{
