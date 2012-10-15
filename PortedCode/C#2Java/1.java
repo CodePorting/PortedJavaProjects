@@ -1,6 +1,6 @@
 package DvdCopyWord.WindowsAPI;
 
-// ********* THIS FILE IS AUTO PORTED FROM C# USING CODEPORTING.COM *********
+// ********* THIS CODE IS AUTO PORTED FROM C# TO JAVA USING CODEPORTING.COM TECHNOLOGY *********
 
 import com.codeporting.csharp2java.System.GC;
 
@@ -11,6 +11,7 @@ public class TestInheritence extends ParentTestClass //Sheraz Test1: Inheritance
 	private String csTestStringVariable1;
 	private String csTestStringVariable2;
 	private String csTestStringVariable3;
+	private String csTestStringVariable4;
 	
 	public TestFunction testFunction()
 	{
