@@ -1,6 +1,6 @@
 package DvdCopyWorld.Common;
 
-// ********* THIS FILE IS AUTO PORTED FROM C# USING CODEPORTING.COM *********
+// ********* THIS CODE IS AUTO PORTED FROM C# TO JAVA USING CODEPORTING.COM TECHNOLOGY *********
 
 import com.codeporting.csharp2java.System.msString;
 import com.codeporting.csharp2java.System.IO.MemoryStream;
